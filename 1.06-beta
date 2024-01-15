@@ -7,7 +7,7 @@
 
 class Player {
 private:
-    std::string name;
+    std::string name
     std::string agent;
     int credits;
     int health;
